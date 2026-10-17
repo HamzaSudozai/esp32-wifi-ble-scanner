@@ -1,0 +1,10 @@
+# Wi-Fi credentials, never commit
+esp32_scanner/secrets.h
+
+# Build output / IDE files
+build/
+*.bin
+*.elf
+.vscode/
+.DS_Store
+Thumbs.db
