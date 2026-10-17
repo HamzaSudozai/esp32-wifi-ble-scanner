@@ -2,8 +2,13 @@
 
 A passive wireless survey tool that runs entirely on an ESP32. It scans nearby Wi-Fi networks and BLE devices and serves a live dashboard from the board itself, so you can see what's actually being broadcast around you.
 
-<!-- Add a screenshot after redacting other people's SSIDs/MACs: -->
-<!-- ![Dashboard](docs/dashboard.png) -->
+![Live dashboard next to the Arduino IDE serial monitor](docs/dashboard-live.jpg)
+
+<p align="center">
+  <img src="docs/hardware-setup.jpg" alt="ESP32 with external antenna connected to a laptop running the scanner" width="360">
+</p>
+
+*Other networks' names, BSSIDs and device MAC addresses are blurred in these photos. Please do the same if you share your own results.*
 
 ## Features
 
